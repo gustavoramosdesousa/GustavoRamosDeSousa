@@ -1,8 +1,8 @@
-# Olá ! Sou Gustavo Ramos 👨‍💻
+# Olá, sou Gustavo Ramos! 
 
 <img align="right" width="40%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkyMXlrcHloYmJ5bW8xdW1sY25zNXFrZXU4Mm9ma2hsc2xxOGpsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Cyber" />
 
-### Soubre mim...
+### Sobre mim...
 - Formado em Ciência da Computação (UFCG); 
 - Mestre em Ciência e Tecnologia (UEPB - Nutes);
 - Resolvo problemas codificando, análisando ou liderando;
