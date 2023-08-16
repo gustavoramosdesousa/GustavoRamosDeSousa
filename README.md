@@ -3,13 +3,13 @@
 <img align="right" width="40%" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkyMXlrcHloYmJ5bW8xdW1sY25zNXFrZXU4Mm9ma2hsc2xxOGpsbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Cyber" />
 
 ### Soubre mim...
-- Formado em computação e trabalhando resolvendo problemas com desenvolvimento, análises ou liderança;
-- 
-- 
+- Formado em Ciência da Computação (UFGC); 
+- Mestre em Ciência e Tecnologia (UEPB - Nutes);
+- Resolvo problemas codifigando, análisando ou liderando;
 
 <br>
 
-### Contatos
+### Blog e Contatos
 <a href="https://medium.com/@gustavoramosdesousa">
   <code><img alt="portfolio" width="28" src="https://cdn.iconscout.com/icon/free/png-512/free-medium-3855923-3201557.png?f=avif&w=256" /></code>
 </a>
