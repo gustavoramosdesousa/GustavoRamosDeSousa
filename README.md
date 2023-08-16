@@ -10,18 +10,17 @@
 <br>
 
 ### Blog e Contatos
-<a href="https://medium.com/@gustavoramosdesousa">
-  <code><img alt="portfolio" width="28" src="https://cdn.iconscout.com/icon/free/png-512/free-medium-3855923-3201557.png?f=avif&w=256" /></code>
-</a>
-
-<a href="https://www.linkedin.com/in/gustavoramosdesousa">
-  <code><img alt="linkedin" width="28" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-162-498418.png" /></code>
-</a>
-
-<a href="mailto:gustavogrs@gmail.com">
-  <code><img alt="e-mail" width="32" src="https://cdn.iconscout.com/icon/free/png-512/free-email-531-433577.png?f=avif&w=256" /></code>
-</a>
-
+<div style="display: inline_block">
+  <a href="https://medium.com/@gustavoramosdesousa">
+    <code><img alt="portfolio" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></code>
+  </a>
+  <a href="https://www.linkedin.com/in/gustavoramosdesousa">
+    <code><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></code>
+  </a>
+  <a href="mailto:gustavogrs@gmail.com">
+    <code><img alt="e-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></code>
+  </a>
+</div>
 
 ## Tecnologias que uso no Trabalho
 ### back-end
@@ -32,6 +31,7 @@
   <img align="center" alt="typecript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
+
 
 ### front-end
 
@@ -49,4 +49,11 @@
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whitee" />
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img align="center" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+  <img align="center" alt="firebase" src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
+</div>
+
+### testes
+<div style="display: inline_block">
+  <img align="center" alt="junit" src="https://img.shields.io/badge/junit-platform-brightgreen.svg" />
+  <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
 </div>
