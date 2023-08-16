@@ -23,6 +23,10 @@
 </div>
 
 ## Tecnologias que uso no Trabalho
+<!--
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroo-Nietoo&theme=github_dark&langs_count=10&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=290" alt="Linguagens de Pedroo-Nieto" align="left" />
+-->
+
 ### back-end
 <div style="display: inline_block">
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -56,4 +60,10 @@
 <div style="display: inline_block">
   <img align="center" alt="junit" src="https://img.shields.io/badge/junit-platform-brightgreen.svg" />
   <img align="center" alt="jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
+</div>
+
+## Certificações
+<div style="display: inline_block">
+  <a href="https://www.credly.com/badges/a8743276-de55-4fce-b4f2-a5b5e3c1120f/public_url"><img align="center" alt="PMI-ACP" src="https://images.credly.com/size/70x70/images/60de4761-84eb-4d9f-a6bc-c290c2e65985/pmi-acp-600px.png" /></a>
+  <a href="https://www.credly.com/badges/3e782315-2990-49f5-8d04-97b777a73f54/public_url"><img align="center" alt="SCRUM-FOUNDATION" src="https://images.credly.com/size/70x70/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" /></a>
 </div>
