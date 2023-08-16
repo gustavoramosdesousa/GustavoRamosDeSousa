@@ -5,7 +5,7 @@
 ### Soubre mim...
 - Formado em Ciência da Computação (UFCG); 
 - Mestre em Ciência e Tecnologia (UEPB - Nutes);
-- Resolvo problemas codifigando, análisando ou liderando;
+- Resolvo problemas codificando, análisando ou liderando;
 
 <br>
 
