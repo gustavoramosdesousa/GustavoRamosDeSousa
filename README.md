@@ -64,6 +64,6 @@
 
 ## Certificações
 <div style="display: inline_block">
-  <a href="https://www.credly.com/badges/a8743276-de55-4fce-b4f2-a5b5e3c1120f/public_url"><img align="center" alt="PMI-ACP" src="https://images.credly.com/size/70x70/images/60de4761-84eb-4d9f-a6bc-c290c2e65985/pmi-acp-600px.png" /></a>
+  <a href="https://www.credly.com/badges/a8743276-de55-4fce-b4f2-a5b5e3c1120f"><img align="center" alt="PMI-ACP" src="https://images.credly.com/size/70x70/images/60de4761-84eb-4d9f-a6bc-c290c2e65985/pmi-acp-600px.png" /></a>
   <a href="https://www.credly.com/badges/3e782315-2990-49f5-8d04-97b777a73f54/public_url"><img align="center" alt="SCRUM-FOUNDATION" src="https://images.credly.com/size/70x70/images/4e3d6f9f-55d7-4ea7-b0e6-f4d4ff543e22/image.png" /></a>
 </div>
